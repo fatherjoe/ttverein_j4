@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.joomla.org/schemas/json-schema/web_assets.json",
+  "name": "com_ttverein",
+  "version": "CVS: 1.0.0",
+  "license": "GNU General Public License Version 2 oder später; siehe LICENSE.txt",
+  "assets": [
+    {
+      "name": "com_ttverein.admin",
+      "type": "style",
+      "uri": "com_ttverein/admin.css"
+    },
+    {
+      "name": "com_ttverein.admin",
+      "type": "script",
+      "uri": "com_ttverein/admin.js",
+      "dependencies": [
+        "jquery"
+      ],
+      "attributes": {
+        "defer": true
+      }
+    },
+    {
+        "name": "com_ttverein.list",
+        "type": "style",
+        "uri": "com_ttverein/list.css"
+    }
+  ]
+}
