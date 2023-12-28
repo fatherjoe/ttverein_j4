@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="allowReplaceRegexp" value="Copyright.*[Citrix|LogMeIn]" />
+    <option name="notice" value="Copyright (c) &amp;#36;today.year LogMeIn&#10;All Rights Reserved Worldwide.&#10;&#10;THIS PROGRAM IS CONFIDENTIAL AND PROPRIETARY TO LOGMEIN&#10;AND CONSTITUTES A VALUABLE TRADE SECRET." />
+    <option name="myName" value="LMI" />
+  </copyright>
+</component>
